@@ -1,0 +1,4 @@
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Alaa Haddad\\AppData\\Local\\Temp\\rust_mozprofileMs2xKL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:9222/devtools/browser/4aa51d7e-2f24-45d6-89f8-c532d1089f63
+JavaScript warning: blob:https://www.footlocker.co.il/8e6d2c54-579e-4c3a-8b90-634d69692665, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://system.user-a.co.il/Customers/551189819/_www_footlocker_co_il-/andifn1.js, line 1010: TypeError: document.querySelector(...) is null
